@@ -7,7 +7,7 @@
  * struct listint_s - singly linked list
  * @next: succeeding node
  * @n: number
- * Description: node for Python Hello world
+ * Description: Python node for Hello world
  */
 typedef struct listint_s
 {
